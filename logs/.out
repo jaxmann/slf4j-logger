@@ -1,0 +1,4 @@
+ INFO [main] 2017-04-10 13:56:02 (LogsMain.java:17) - Entering application.
+DEBUG [main] 2017-04-10 13:56:02 (Bar.java:7) - Did it again!
+ INFO [main] 2017-04-10 13:56:02 (LogsMain.java:20) - Exiting application.
+ INFO [main] 2017-04-10 13:56:04 (LogsMain.java:29) - Exiting application.
